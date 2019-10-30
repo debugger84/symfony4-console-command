@@ -1,5 +1,0 @@
-example:
-    resource: ../../src/Example/Controller/
-    type: annotation
-    prefix: '/example'
-    trailing_slash_on_root: false
