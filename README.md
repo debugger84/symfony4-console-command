@@ -6,7 +6,7 @@ This project uses laradoc to orchestrate environment of a project. The Symfony f
 How to start 
 ===
 * Pull the project to your local directory.
-* Run `make start`. All containers will started.
+* Run `make start`. All containers will start.
 * If you want to test, than run `make test`
 * Add data to database and run `make run-command`
 
