@@ -7,6 +7,7 @@
         "ext-iconv": "*",
         "ext-json": "*",
         "flow/jsonpath": "^0.4.0",
+        "myclabs/php-enum": "^1.7",
         "rikbruil/doctrine-specification": "^1.2",
         "symfony/asset": "4.3.*",
         "symfony/console": "4.3.*",
